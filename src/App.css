@@ -1,0 +1,32 @@
+.App-header {
+    background-color: #222;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url(../pexels-aleksandar-pasaric-2411688.jpg);
+    background-position: center/center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.data {
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+    color:white;
+}
+
+#input {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
